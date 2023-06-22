@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "baseFontSize": 23,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

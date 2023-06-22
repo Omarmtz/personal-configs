@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e3f5c57ed41f63d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97a3cbe652fde14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c854442e79986e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c3bef27525de8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "add80f172304a4e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5f61754498b6f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "30de1cadbb940472",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ace46f1ab15dc76d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cd256fac8b80d38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9469b79635009a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d109c54f727df230",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d7a737fa5319c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06f179f052cd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcecef2ed4e64fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31cea4ffc3e11a81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc13bd49e2744e88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb7b74e4a4224388",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "82c854442e79986e",
+  "lastOpenFiles": [
+    "Brew Packages.md",
+    "Untitled.canvas",
+    "2023-06-21.md",
+    "Tools.md",
+    "Tmux Guide.md",
+    "SSL Certificates.md",
+    "Research SSH.md",
+    "Mac OS Setup.md",
+    "Fish Shell.md",
+    "Enable Nvidia Docker instances.md",
+    "Docker Networking.md",
+    "Design patterns.md",
+    "Creating Terminal Shell Scripts.md",
+    "Configuration files.md",
+    "Conda.md",
+    "Creating NAS settings.md",
+    "📘 Learning/Learning Checks.md",
+    "📘 Learning/Presentation of Documentation.md",
+    "Tedt note.md",
+    "2023-04-12.md",
+    "2023-02-13.md",
+    "2023-02-12.md",
+    "Untitled Kanban.md"
+  ]
+}

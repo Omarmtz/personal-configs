@@ -1,0 +1,13 @@
+- [ ] Learn Pandas
+- [ ] Learn Jupiter Noteboook
+- [ ] Learn NumPy
+- [x] Learn CyberPlumbers ✅ 2023-06-21
+- [ ] Learn conda and python3 
+- [ ] Learn GPT Querying
+- [x] Learn Kotlin Coroutines ✅ 2023-06-21
+- [x] Learn DNS Unbound / DNSMasq ✅ 2023-06-21
+- [x] Learn Docker Networking ✅ 2023-06-21
+- [x] Learn ARP ✅ 2023-06-21
+- [ ] Tmux
+- [ ] 
+
